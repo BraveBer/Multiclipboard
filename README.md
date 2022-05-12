@@ -1,3 +1,3 @@
 # multiclipboard
-python toy project:
-Making the clipboard to be able to save multi texts 
+python project:
+Making the clipboard have the functionality of saving multiply texts with different id
