@@ -1,3 +1,3 @@
 # multiclipboard
 python project:
-Making the clipboard have the functionality of saving multiply texts with different id
+making the clipboard have the functionality of saving multiply texts 
